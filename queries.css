@@ -1,0 +1,13 @@
+@media (max-width: 84em) {
+  .main-section {
+    max-width: 120rem;
+  }
+
+  .about-box {
+    font-size: 4.4rem;
+  }
+
+  .about-box-text {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
