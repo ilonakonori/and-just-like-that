@@ -7,14 +7,14 @@
 html {
   font-size: 62.5%;
   overflow: hidden;
-  background-color: #fdf2e9;
+  background-color: #ffffff;
 }
 
 body {
-  font-family: "Rubik", sans-serif;
+  font-family: Poppins, sans-serif;
   line-height: 1;
   font-weight: 400;
-  color: #555;
+  color: #212529;
   overflow-x: hidden;
 }
 
