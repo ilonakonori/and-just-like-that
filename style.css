@@ -104,3 +104,8 @@
   letter-spacing: 0.2rem;
   font-weight: 100;
 }
+
+.resume:hover,
+.resume:active {
+  color: #009bcc;
+}
