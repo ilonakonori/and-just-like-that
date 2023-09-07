@@ -1,13 +1,17 @@
 @media (max-width: 84em) {
-  .main-section {
-    max-width: 120rem;
-  }
-
   .about-box {
-    font-size: 4.4rem;
+    max-width: 130rem;
+    background-color: red;
   }
 
-  .about-box-text {
-    grid-template-columns: repeat(2, 1fr);
+  .about-top-top {
+    font-size: 7.4rem;
+    background-color: yellow;
+    color: black;
+  }
+
+  .about-top {
+    grid-template-columns: repeat(3, 1fr);
+    background-color: blue;
   }
 }
