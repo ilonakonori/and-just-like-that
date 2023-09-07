@@ -6,7 +6,6 @@
 
 html {
   font-size: 62.5%;
-  overflow: hidden;
   background-color: #ffffff;
 }
 
@@ -20,7 +19,7 @@ body {
 
 .container {
   /* 1140px */
-  max-width: 120rem;
+  max-width: 10rem;
   padding: 0 3.2rem;
   margin: 0 auto;
 }
