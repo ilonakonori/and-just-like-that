@@ -85,8 +85,8 @@
 /* SOCIAL */
 
 .social {
-  position: relative;
-  top: 90%;
+  position: absolute;
+  top: 95%;
 }
 
 .resume {
