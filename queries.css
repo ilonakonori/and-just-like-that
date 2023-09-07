@@ -1,7 +1,7 @@
 @media (max-width: 84em) {
   .about-box {
     max-width: 130rem;
-    background-color: red;
+    background-color: #ff0000;
   }
 
   .about-top-top {
@@ -12,6 +12,6 @@
 
   .about-top {
     grid-template-columns: repeat(3, 1fr);
-    background-color: blue;
+    background-color: #0000ff;
   }
 }
