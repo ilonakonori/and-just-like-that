@@ -109,3 +109,11 @@
 .resume:active {
   color: #009bcc;
 }
+
+/* MEDIA */
+
+@media (max-width: 1200px) {
+  .social {
+    display: none;
+  }
+}
